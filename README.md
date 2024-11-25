@@ -1,2 +1,1 @@
-The aplication designed is C# and SQL, originally designed as a DBMS Project. 
-Contributors: Vinayak Rajput, Thushar DM, Sudeep Patil, Vevoto Nyenkha 
+The application designed in C# and SQL, originally designed as a DBMS Project.
